@@ -14,13 +14,13 @@ This repository serves as a STARTER TEMPLATE for the Yearlong Programming Projec
 2. Write your Project Proposal using the provided template in the khub.
 3. Update this `README.md` to describe your project idea. Template:
 
-   Main header: Project Title
-   Subheading: Team name and composition
+   - Main header: Project Title
+   - Subheading: Team name and composition
    
-   Questions to answer in the README (short, tentative answers okay):
-   a. What problem are you trying to solve? Think about who has the problem, why it matters, and what people do about it today.
-   b. What are your app's features? How does the app help solve the problem?
-   c. What specific data will you handle?
+   - Questions to answer in the README (short, tentative answers okay):
+   - a. What problem are you trying to solve? Think about who has the problem, why it matters, and what people do about it today.
+   - b. What are your app's features? How does the app help solve the problem?
+   - c. What specific data will you handle?
 
 5. Commit and push your changes to GitHub.
 
